@@ -5,6 +5,9 @@
 
 Excel :green_heart: SQL SERVER :open_file_folder: PowerBI :memo: Projects
 
+UFood Marketing Pyton Project: This project involved data exploration, cleaning, wrangling, and visualiztion using the Python Pandas library, along with seaborn and matplotlib. This project taught me valuable python skills using groupby and plots. 
+https://github.com/Aesenaliev/UFoodMarketing/tree/main
+
 Conversions and Marketing Dashboard: This project involves querying and building a bi-annual revenue report for a marketing company and their streamlines of impressions.
 https://github.com/Aesenaliev/MarketingAnalytics
 
